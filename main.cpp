@@ -61,7 +61,13 @@ int main()
     return 0;
 }
 
-/* output for Jacobson
+/* test run for Jacobson
+
+@andynguyen2121 ➜ /workspaces/assignment2 (main) $ g++ main.cpp 
+@andynguyen2121 ➜ /workspaces/assignment2 (main) $ ./a.out
+Enter last name: Jacobson
+Enter hourly pay rate: 15.50
+Enter hours worked this week: 48.30
 
 Employee: Jacobson
 Pay Rate: $15.50
@@ -72,13 +78,18 @@ Net Pay (after tax + $50 bonus): $693.84
 
 */
 
-/* output for Crawford
+/* test run for Crawford
+
+@andynguyen2121 ➜ /workspaces/assignment2 (main) $ g++ main.cpp 
+@andynguyen2121 ➜ /workspaces/assignment2 (main) $ ./a.out 
+Enter last name: Crawford
+Enter hourly pay rate: 18.75
+Enter hours worked this week: 52.00
 
 Employee: Crawford
 Pay Rate: $18.75
 Hours Worked: 52.00
 Gross Pay: $975.00
 Tax (14%): $136.50
-Net Pay (after tax + $50 bonus): $888.50
 
 */
