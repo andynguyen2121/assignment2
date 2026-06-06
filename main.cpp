@@ -91,5 +91,5 @@ Pay Rate: $18.75
 Hours Worked: 52.00
 Gross Pay: $975.00
 Tax (14%): $136.50
-
+Net Pay (after tax + $50 bonus): $888.50
 */
